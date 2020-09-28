@@ -3135,7 +3135,7 @@
 				<string name="ExplorerOrder">3</string>
 				<string name="ExplorerImageIndex">26</string>
 				<string name="ClassCategory">GUI</string>
-				<string name="summary">Ensures a GuiObject does not become smaller or larger than the min and max size. If an element with a constraint is under the control of a layout, the constraint takes precedence in determining the element’s size, but not position. You can use a Constraint by parenting it to the element you wish to constrain.</string>
+				<string name="summary">Ensures a GuiObject does not become smaller or larger than the min and max size. If an element with a constraint is under the control of a layout, the constraint takes precedence in determining the elementÂ’s size, but not position. You can use a Constraint by parenting it to the element you wish to constrain.</string>
 				<string name="PreferredParent">GuiBase2d</string>
 				<string name="PreferredParents">GuiObject,GuiBase2d</string>
 			</Properties>
@@ -3160,7 +3160,7 @@
 				<string name="ExplorerOrder">3</string>
 				<string name="ExplorerImageIndex">26</string>
 				<string name="ClassCategory">GUI</string>
-				<string name="summary">Ensures a GuiObject with text does not allow the font size to become larger or smaller than min and max text sizes. If an element with a constraint is under the control of a layout, the constraint takes precedence in determining the element’s size, but not position. You can use a Constraint by parenting it to the element you wish to constrain.</string>
+				<string name="summary">Ensures a GuiObject with text does not allow the font size to become larger or smaller than min and max text sizes. If an element with a constraint is under the control of a layout, the constraint takes precedence in determining the elementÂ’s size, but not position. You can use a Constraint by parenting it to the element you wish to constrain.</string>
 				<string name="PreferredParent">GuiBase2d</string>
 				<string name="PreferredParents">GuiObject,GuiBase2d</string>
 			</Properties>
@@ -3185,7 +3185,7 @@
 				<string name="ExplorerOrder">3</string>
 				<string name="ExplorerImageIndex">26</string>
 				<string name="ClassCategory">GUI</string>
-				<string name="summary">Ensures a GuiObject will always have a particular aspect ratio. If an element with a constraint is under the control of a layout, the constraint takes precedence in determining the element’s size, but not position. You can use a Constraint by parenting it to the element you wish to constrain.</string>
+				<string name="summary">Ensures a GuiObject will always have a particular aspect ratio. If an element with a constraint is under the control of a layout, the constraint takes precedence in determining the elementÂ’s size, but not position. You can use a Constraint by parenting it to the element you wish to constrain.</string>
 				<string name="PreferredParents">GuiObject,GuiBase2d</string>
 			</Properties>
 			<Item class="ReflectionMetadataProperties">
@@ -3198,7 +3198,7 @@
 				<Item class="ReflectionMetadataMember">
 					<Properties>
 						<string name="Name">AspectType</string>
-						<string name="summary">Describes how the aspect ratio will determine its size. Options are FitWithinMaxSize, ScaleWithParentSize. FitWithinMaxSize will make the element the maximum size it can be within the current possible AbsoluteSize of the element while maintaining the AspectRatio. ScaleWithParentSize will make the element the closest to the parent element’s maximum size while maintaining aspect ratio.</string>
+						<string name="summary">Describes how the aspect ratio will determine its size. Options are FitWithinMaxSize, ScaleWithParentSize. FitWithinMaxSize will make the element the maximum size it can be within the current possible AbsoluteSize of the element while maintaining the AspectRatio. ScaleWithParentSize will make the element the closest to the parent elementÂ’s maximum size while maintaining aspect ratio.</string>
 					</Properties>
 				</Item>
 				<Item class="ReflectionMetadataMember">
